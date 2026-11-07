@@ -131,6 +131,19 @@ I enjoy building reliable applications, solving challenging programming problems
 
 ---
 
+---
+
+## 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Revathi-kilari71&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [Revathi-kilari71](https://github.com/Revathi-kilari71)
+- **Email:** revathiyesu71@gmail.com
+
 
 
 
