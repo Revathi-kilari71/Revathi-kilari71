@@ -12,6 +12,7 @@ I enjoy building reliable applications, solving challenging programming problems
 - ⚙️ Experienced with REST APIs, machine learning, and performance optimisation
 - 🎯 Focused on writing clean, efficient, and maintainable code
 
+---
 
 ## 💻 Tech Stack
 
@@ -35,28 +36,16 @@ I enjoy building reliable applications, solving challenging programming problems
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-## 🛠️ Technical Skills
+## 🧩 Core Competencies
 
-**Programming Languages**
-- Python, Java, C++, C, SQL, JavaScript, R
+- **Computer Science:** Data Structures, Algorithms, OOP, DBMS, Problem Solving
+- **Software Engineering:** REST APIs, Unit Testing, Debugging, Performance Optimisation
+- **Machine Learning:** Pandas, NumPy, MobileNetV3, ONNX Runtime, INT8 Quantization
+- **Development Tools:** VS Code, Maven, JUnit 5, Jupyter Notebook, Google Colab
+- **Additional Technologies:** C, JavaScript, R, SQL Server, AWS Fundamentals
 
-**Backend Development**
-- Flask, Django, FastAPI, REST APIs
-
-**Databases**
-- MySQL, PostgreSQL, SQL Server
-
-**Core Computer Science**
-- Data Structures, Algorithms, OOP, DBMS, Problem Solving
-
-**Machine Learning & AI**
-- PyTorch, Scikit-learn, Pandas, NumPy, MobileNetV3
-- ONNX Runtime, INT8 Quantization, Model Optimisation
-
-**Tools & Technologies**
-- Git, GitHub, Linux, VS Code, Maven, JUnit 5
-- Jupyter Notebook, Google Colab, AWS Fundamentals
 
 ---
 
@@ -131,20 +120,12 @@ I enjoy building reliable applications, solving challenging programming problems
 
 ---
 
----
 
 ## 🔥 GitHub Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Revathi-kilari71&theme=tokyonight)
 
 ---
-
-## 📫 Connect With Me
-
-- **GitHub:** [Revathi-kilari71](https://github.com/Revathi-kilari71)
-- **Email:** revathiyesu71@gmail.com
-
-
 
 
 ## 📫 Connect With Me
